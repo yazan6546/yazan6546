@@ -9,6 +9,7 @@
 
 <br />
 
+### 💻 Languages and Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -39,9 +40,12 @@
 
 </p>
 
-<p align = "center">
-
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=yazan6546&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "yazan6546's Languages/Frameworks" width = 400 />
+<p align="center">
+    <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan6546&layout=compact&theme=vue-dark&langs_count=10&bg_color=00000000&hide_border=true&cache_seconds=721222" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan6546&layout=compact&langs_count=10&theme=vue-dark&bg_color=00000000&hide_border=true&cache_seconds=721122" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan6546&layout=compact&langs_count=10" />
+    </picture>
 </p>
 
 
