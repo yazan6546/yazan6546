@@ -29,8 +29,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" height=50" alt="pandas logo" />
   <img width="12" />
+  <br />
+
+  <img src="https://docs.sympy.org/latest/_images/sympy.svg" height="50" alt="Sympy logo"  />
+  <img width="12" />
+
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
