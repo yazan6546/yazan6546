@@ -66,11 +66,7 @@
 </p>
 
 <p align="center">
-    <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan6546&layout=compact&theme=vue-dark&langs_count=10&bg_color=00000000&hide_border=true&cache_seconds=721222" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan6546&layout=compact&langs_count=10&theme=vue-dark&bg_color=00000000&hide_border=true&cache_seconds=721122" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan6546&layout=compact&langs_count=10" />
-    </picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan6546&layout=compact&theme=gotham&hide_border=true&langs_count=10" alt="Top Languages" width="300">
 </p>
 
 
