@@ -66,14 +66,13 @@ Building, learning, and exploring tech every day!</b> ✨
 </div>
 
 ---
-
 ## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yazan6546&show_icons=true&theme=radical&hide_border=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yazan6546&theme=radical&hide_border=true" width="47%" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan6546&layout=compact&theme=radical&hide_border=true&langs_count=10" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazan6546&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=SECDA-Lite" width="35%" />
 </div>
 
 ---
