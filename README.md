@@ -31,7 +31,7 @@ Building, learning, and exploring tech every day!</b> ✨
 ## 🚀 About Me
 
 - 🎓 Computer Engineering Student @ **Birzeit University**
-- 🧠 Interests: **AI • Embedded Systems • Computer Vision**
+- 🧠 Interests: **Design Verification • Embedded Systems • Computer Vision**
 - 🛠️ Always building and debugging something new!
 - 🤝 Open to collaborating on exciting projects.
 - 📧 [Email me](mailto:yazanaboeloun@gmail.com)
